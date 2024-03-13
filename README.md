@@ -1,94 +1,23 @@
-1 - Oyunu bitirebilmek için savaş bölgelerindeki tüm düşmanlar temizlendikten sonra bölgeye özel ödülü oyunucun envanterine eklenmelidir. Eğer oyuncu tüm ödülleri toplayıp "Güvenli Eve" dönebilirse oyunu kazanır. Ayrıca ödül kazanılan bölgeye tekrar giriş yapılamaz.
+# OVERVIEW
 
+This Java adventure game uses simple text controls. The game includes a number of characters, antagonists, places, maps, inventories, and other elements. Since the game is open-ended, you may just add features and upgrades.
 
+# HOW TO PLAY
 
-Bölge Ödülleri :
+This text-based game immerses you in an adventure. The goal is to collect three distinct goods and then safely return to your home base.
 
+1-First, type your name and choose your character.
 
+2-Examine a few different places on the map.
 
-Mağara => Yemek (Food)
+3-Gather the random objects you have laying around.
 
+4-Make a variety of friends and acquaintances; some may turn out to be adversaries and some allies.
 
-Orman => Odun (Firewood)
+5-Fight other players or make an attempt to get away from hostile characters.
 
+6-Invest in products from retailers to expand your expertise.
 
-Nehir => Su (Water)
+7-After obtaining the three items, return to your starting point.
 
-
-2 - Oyuncu bir canavarla karşılaştığında ilk hamleyi kimin yapacağını, %50 şans ile belirlenmesi. (Şuan ki durumda ilk vuran her zaman oyuncu)
-
-
-
-3 - Yeni bir savaş bölgesi eklenmeli. Bu bölgenin amacı yenilen rakiplerden rastgele para, silah veya zırh kazanma ihtimali olması.
-
-
-
-Bölge Adı : Maden
-
-
-Canavar : Yılan (1-5 Adet)
-
-
-Özellik : Savaş ve Ganimet
-
-
-Eşya : Para, Silah veya Zırh
-
-
-Yılan Özellikleri :
-
-
-
-ID : 4
-
-
-HASAR : Rastgele (3 ve 6 arası)
-
-
-SAĞLIK :12
-
-
-PARA : Yok (Onun yerine eşya kazanma ihtimali)
-
-
-Yenilen bir rakiplerden düşen eşyalar :
-
-
-
-Silah Kazanma İhtimali : 15%
-
-
-Tüfek Kazanma İhtimali : 20%
-
-
-Kılıç Kazanma İhtimali : 30%
-
-
-Tabanca Kazanma İhtimali : 50%
-
-
-Zırh Kazanma İhtimali : 15%
-
-
-Ağır Zırh Kazanma İhtimali : 20%
-
-
-Orta Zırh Kazanma İhtimali : 30%
-
-
-Hafif Zırh Kazanma İhtimali : 50%
-
-
-Para Kazanma İhtimali : 25%
-
-
-10 Para Kazanma İhtimali: 20%
-
-
-5 Para Kazanma İhtimali: 30%
-
-
-1 Para Kazanma İhtimali: 50%
-
-
-Hiç birşey kazanamama ihtimali : 45%
+8-To win the game, successfully return to your home base!
